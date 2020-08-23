@@ -1,0 +1,7 @@
+Once we know the administrator password, we can use psexec:
+
+psexec.py Administrator:'MyUnclesAreMarioAndLuigi!!1!'@10.10.10.125
+
+And we get root shell.
+
+We can also use gpp-decrpyt binary on kali to decrypt the administrator encrypted password.

@@ -1,0 +1,2 @@
+root:$1$p/d3CvVJ$4HDjev4SJFo7VMwL2Zg6P0:0:0:root:/root:/bin/bash
+makis:$1$Yp7BAV10$7yHWur1KMMwK5b8KRZ2yK.:1003:1003::/home/makis:/bin/sh
